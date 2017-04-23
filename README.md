@@ -1,2 +1,2 @@
 # player-archetypes
-K-Means Clustering of Soccer Player Attributes with SparkML
+K-Mean Clustering of Soccer Player Attributes with SparkML
